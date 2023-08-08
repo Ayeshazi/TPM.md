@@ -1,4 +1,4 @@
-# Technical Program Management (TPM) Responsibilities
+# Technical Project Management (TPM) Responsibilities
 
 TPM roles involve overseeing complex technical projects and ensuring their successful execution. TPMs play a critical role in coordinating teams, allocating resources, and aligning projects with business objectives. Here are the key responsibilities of TPMs:
 
