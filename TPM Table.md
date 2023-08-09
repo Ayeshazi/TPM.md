@@ -12,7 +12,7 @@ Date: [Insert Date]
 
 ---
 
-Conclusion:
+
 - Summary of the overall project status, highlighting achievements and team dedication.
 - Additional remarks or insights.
 
